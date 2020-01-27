@@ -1,12 +1,1 @@
-[
-  {
-    "firstName": "John",
-    "lastName": "Doe",
-    "emailAddress": "johndoe@somewhere.com"
-  },
-  {
-    "firstName": "Jane",
-    "lastName": "Doe",
-    "emailAddress": "janedoe@somewhere.com"
-  }
-]
+[]
