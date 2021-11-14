@@ -1,0 +1,25 @@
+{
+    "name": "tutorial-convert-json-js",
+    "version": "1.0.0",
+    "description": "How to convert JSON for JavaScript/Node",
+    "license": "MIT",
+    "author": "John Millwood <johnrmillwood3@gmail.com>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jmillwood/tutorial-convert-json-js.git"
+    },
+    "keywords": [
+        "convert",
+        "json",
+        "node",
+        "javascript"
+    ],
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "colors": "^1.4.0",
+        "lodash": "^4.17.19"
+    }
+}
